@@ -1,0 +1,64 @@
+.ban4 {
+  width: 90%;
+  align-items: center;
+  padding: 5% 0% 5% 10%;
+}
+
+.img {
+  padding: 5% 15%;
+  width: 100%;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.redes-container {
+  display: flex;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.redes-container ul li {
+  display: inline-block;
+  margin: 0 5px;
+  width: 50px;
+  text-align: center;
+}
+
+.redes-container a {
+  display: block;
+}
+
+p {
+  color: #007bff;
+}
+
+.card1 {
+  padding-left: 15%;
+}
+
+.card2 {
+  padding-left: 30%;
+}
+
+.container-fluid {
+  font-size: 50%;
+}
+
+.container-fluid {
+  font-size: 100%;
+}
+
+.container-fluid {
+  font-size: 150%;
+}
+
+.navbar-brand {
+  width: 3%;
+}
+
+/*# sourceMappingURL=style.css.map */

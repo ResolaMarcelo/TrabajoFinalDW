@@ -1,0 +1,11 @@
+{
+  "name": "trabajofinaldw",
+  "version": "1.0.0",
+  "description": "Proyecto Final",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "author": "Resola",
+  "license": "ISC"
+}

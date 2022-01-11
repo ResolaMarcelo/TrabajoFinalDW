@@ -1,0 +1,7 @@
+//BUCLE
+
+@for $i from 1 through 3    {
+    .container-fluid  {
+         font-size: 50% * $i;
+    }
+}
